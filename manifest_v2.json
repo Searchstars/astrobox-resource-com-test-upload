@@ -1,0 +1,27 @@
+{
+  "item": {
+    "id": "com.test.upload",
+    "restype": "quick_app",
+    "name": "test upload",
+    "description": "eee",
+    "preview": [
+      "media/marco-grosso-AP6a3tBJD70-unsplash.jpg"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/marco-grosso-AP6a3tBJD70-unsplash.jpg",
+    "author": [
+      {
+        "name": "searchstars",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmws4": {
+      "version": "1.1.1",
+      "file_name": "downloads/InstallFigmaAgent.dmg"
+    }
+  },
+  "ext": {}
+}
